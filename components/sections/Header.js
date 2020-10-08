@@ -83,6 +83,9 @@ return (
             </Link>
           </div>
           <div className="d-flex">
+            <div className="w-35 mr-1">
+              <a>User</a>
+            </div>
             <div
               className="position-relative cursor-pointer" 
               onClick={toggleCart}
